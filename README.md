@@ -2,7 +2,9 @@
 Coursework 2 for SWT & KG
 
 
-Author: Mansib Rahman (210026253) - MSc Software Engineering & Cloud Computing
+Author: Mansib Rahman - MSc Software Engineering & Cloud Computing
+
+Dataset downloaded from Kaggle: https://www.kaggle.com/datasets/datafiniti/pizza-restaurants-and-the-pizza-they-sell
 
 ## Instructions
 
